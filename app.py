@@ -1,6 +1,4 @@
 import base64
-from ast import literal_eval
-import json
 import numpy as np
 import io
 from PIL import Image
